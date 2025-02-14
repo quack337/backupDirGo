@@ -3,7 +3,7 @@ module github.com/quack337/backupDirGo
 go 1.23.6
 
 require (
-	github.com/quack337/goLib v0.0.0-00010101000000-000000000000
+	github.com/quack337/goLib v1.0.0
 	github.com/stretchr/testify v1.10.0
 	golang.org/x/text v0.22.0
 )
